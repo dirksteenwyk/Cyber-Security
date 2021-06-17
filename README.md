@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Network_Diagram]()
+![Network_Diagram](https://github.com/dirksteenwyk/Cyber-Security/blob/main/Images/Project1_Network_Diagram.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook files may be used to install only certain pieces of it, such as Filebeat.
 
@@ -69,7 +69,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![Docker_ps_Output]()
+![Docker_ps_Output](https://github.com/dirksteenwyk/Cyber-Security/blob/main/Images/Project1_Docker_ps_Output.PNG)
 
 
 ### Target Machines & Beats
